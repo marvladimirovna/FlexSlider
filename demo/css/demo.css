@@ -61,6 +61,8 @@ a {
 	
 }
 
+
+
 li{
 display:inline;	
 	}
@@ -126,6 +128,9 @@ nav li {text-align:center; font-size: 30px; padding-left:47px; }
 nav li a:hover,
 nav li.active a  {border-bottom: 1px dotted black; border-bottom: 1px dotted rgba(255,255,255,0.3); background: none;}
 nav li.active a  { cursor: default; }
+header h2{
+	margin: 0 0 10px; color: black; font-size: 1.8em; margin-left:60%;
+	}
 
 /* Media Queries
 ***********************/
